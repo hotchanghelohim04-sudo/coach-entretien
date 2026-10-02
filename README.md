@@ -9,7 +9,7 @@ Built for my friend **Khennel**, a Human Resources student preparing her first i
 ## What it does
 
 1. Khennel pastes an internship offer or uploads it (PDF or Word). She can also add her CV.
-2. The AI plays the recruiter and asks 4 questions, one at a time, based on the offer (and the CV).
+2. The AI plays the recruiter and asks 10 questions, one at a time, based on the offer (and the CV).
 3. At the end, Gemma gives a score out of 10, a summary, strengths, feedback on clarity and structure, and 3 concrete improvements.
 4. She can export the results and the full transcript as a Word or text file.
 
@@ -58,7 +58,7 @@ Built for my friend **Khennel**, a Human Resources student preparing her first i
 At the top of `app.py`:
 
 - `MODEL`: the Gemma model used
-- `NB_QUESTIONS`: number of questions asked (default 4)
+- `NB_QUESTIONS`: number of questions asked (default 10)
 
 ## Demo
 
