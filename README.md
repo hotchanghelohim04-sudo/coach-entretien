@@ -59,7 +59,3 @@ At the top of `app.py`:
 
 - `MODEL`: the Gemma model used
 - `NB_QUESTIONS`: number of questions asked (default 10)
-
-## Demo
-
-Video: _add the link here_
